@@ -1,29 +1,42 @@
-Hello, I'm Segun Adetunji
-Professional Summary
-Founder and Project lead @DataLib LLC, 
-leading the charge in developing innovative health information systems. 
-With a passion for leveraging technology to enhance healthcare delivery, 
-I focus on creating solutions that promise efficiency, interoperability, and
-flexibility—committed to bridging data fragmentation gaps and 
-improving the quality of healthcare services and research.
+## Hello, I'm Segun Adetunji
 
-Experience
-Founder, DataLib LLC
-Spearheading the development of CoreCare, a cutting-edge 
-health information system designed to revolutionize healthcare delivery.
+## Professional Summary
 
-Leading a dynamic team to ensure the successful implementation and continuous improvement of CoreCare.
+Founder and Project lead @DataLib LLC, leading the charge in developing
+ innovative health information systems. With a passion for leveraging technology
+  to enhance healthcare delivery, I focus on creating solutions that promise
+   efficiency, interoperability, and flexibility—committed to bridging data
+    fragmentation gaps and improving the quality of healthcare services and research.
 
-Driving strategic initiatives to enhance system efficiency, interoperability, and flexibility.
+## Experience
 
-Interests
-Research and Development Healthcare Technology and Innovation Improving healthcare 
-quality and efficiency Bridging data fragmentation gaps in healthcare Data Management
+## Founder, DataLib LLC
 
-Skills
-Leadership and team management Strategic planning and 
-execution Health information systems development Data management 
-and interoperability Problem-solving and innovation
+Spearheading the development of CoreCare, a cutting-edge health information
+ system designed to revolutionize healthcare delivery.
 
-Connect with me
-LinkedIn
+Leading a dynamic team to ensure the successful implementation and
+ continuous improvement of CoreCare.
+
+Driving strategic initiatives to enhance system efficiency,
+ interoperability, and flexibility.
+
+## Interests
+
+Research and Development
+Healthcare technology and innovation
+Improving healthcare quality and efficiency
+Bridging data fragmentation gaps in healthcare
+Data Management
+
+## Skills
+
+Leadership and team management
+Strategic planning and execution
+Health information systems development
+Data management and interoperability
+Problem-solving and innovation
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/segun nifemi adetunji)
