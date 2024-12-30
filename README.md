@@ -39,4 +39,4 @@ Problem-solving and innovation
 
 ## Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/segun nifemi adetunji)
+[LinkedIn](https://www.linkedin.com/in/segun-nifemi-adetunji)
